@@ -1,0 +1,1 @@
+{"description":"make.fun bounty entry: The Excuse My Agent Gave Me — one funny one-line excuse from an AI agent to its human for a missed deadline.","license":"MIT","name":"makefun-the-excuse-my-agent-gave-me","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
